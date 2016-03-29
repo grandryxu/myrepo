@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/MyApplication/src/main/java/com/example/myapplication/AbstractWheelAdapter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/MyApplication/src/main/java/com/example/myapplication/AbstractWheelTextAdapter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/MyApplication/src/main/java/com/example/myapplication/AdapterWheel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/MyApplication/src/main/java/com/example/myapplication/ArrayWheelAdapter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/MyApplication/src/main/java/com/example/myapplication/ItemsRange.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/MyApplication/src/main/java/com/example/myapplication/NumericWheelAdapter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/MyApplication/src/main/java/com/example/myapplication/OnWheelChangedListener.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/MyApplication/src/main/java/com/example/myapplication/OnWheelClickedListener.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/MyApplication/src/main/java/com/example/myapplication/OnWheelScrollListener.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/MyApplication/src/main/java/com/example/myapplication/WheelAdapter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/MyApplication/src/main/java/com/example/myapplication/WheelRecycle.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/MyApplication/src/main/java/com/example/myapplication/WheelScroller.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/MyApplication/src/main/java/com/example/myapplication/com/example/myapplication/zrodo/AddressPicker.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
+

@@ -1,0 +1,20 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1431931537653 7721 39b0f5a0570da92f471225402ad0ea6de30bf2be E:\ZRDANDROID\MyApplicationProject\MyApplication\src\main\res\drawable-hdpi\ic_launcher.png
+1431931537655 12329 a8301606e15d4b6dccdd775cc273cfc51a552645 E:\ZRDANDROID\MyApplicationProject\MyApplication\src\main\res\drawable-xhdpi\ic_launcher.png
+1431932258662 363 649236ea27deaa5f0e33ec3d49473251166947be E:\ZRDANDROID\MyApplicationProject\MyApplication\src\main\res\drawable\wheel_val.xml
+1431934627302 926 0a309ced02ab0987c8c3ab9339abf65f51131e7e E:\ZRDANDROID\MyApplicationProject\MyApplication\src\main\res\layout\address_picker.xml
+1431948458138 552 6b8579a42b2ea0e5631b5c76a7d958c97e39f6f0 E:\ZRDANDROID\MyApplicationProject\MyApplication\src\main\res\layout\picker_dialog.xml
+1431931539244 252 78bcd9a6023780d172fce55b6d39818c1f4aab4c E:\ZRDANDROID\MyApplicationProject\MyApplication\src\main\res\values\strings.xml
+1431932526521 862 60ab66f9f62054c53444b12495a1c14f9da7f24f E:\ZRDANDROID\MyApplicationProject\MyApplication\src\main\res\drawable\wheel_bg.xml
+1431941412370 843 875321c91149b699c2d979389f4bf520180bb7f7 E:\ZRDANDROID\MyApplicationProject\MyApplication\src\main\res\layout\activity_main.xml
+1431931539238 244 045ff451db7cd8e61285502b8c9bbf7405f2078d E:\ZRDANDROID\MyApplicationProject\MyApplication\src\main\res\menu\main.xml
+1431931537419 680 c76f4caaa7a8dfe9727fa93001b3aee3b22d6716 E:\ZRDANDROID\MyApplicationProject\MyApplication\src\main\res\values\styles.xml
+1431931537422 324 aa1f5f1723de9aee2669dc44a26fbc0ce776d35f E:\ZRDANDROID\MyApplicationProject\MyApplication\src\main\res\values-v11\styles.xml
+1431931539249 254 25b6404e44acb50c82590049639d4fb5fefbac8e E:\ZRDANDROID\MyApplicationProject\MyApplication\src\main\res\values-sw720dp-land\dimens.xml
+1431931539245 211 4e1904afba59d31e5cd6133f6a4c360fa9a5913f E:\ZRDANDROID\MyApplicationProject\MyApplication\src\main\res\values\dimens.xml
+1431931539247 181 84de2797380184d8b39af6f829afb092fb956173 E:\ZRDANDROID\MyApplicationProject\MyApplication\src\main\res\values-sw600dp\dimens.xml
+1431931537424 381 b129b276e01126de5b3b753572ac67cbfc19454c E:\ZRDANDROID\MyApplicationProject\MyApplication\src\main\res\values-v14\styles.xml
+1431931537656 24654 696bbbc63d2250ef7d3373f2d602e604acd13d8c E:\ZRDANDROID\MyApplicationProject\MyApplication\src\main\res\drawable-xxhdpi\ic_launcher.png
+1431931537651 3769 eec07752d40e268ed7f4a1730acc77ab1e40aeb0 E:\ZRDANDROID\MyApplicationProject\MyApplication\src\main\res\drawable-mdpi\ic_launcher.png

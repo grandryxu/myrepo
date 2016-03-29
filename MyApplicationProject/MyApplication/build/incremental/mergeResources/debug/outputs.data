@@ -1,0 +1,17 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1431931620168 3769 eec07752d40e268ed7f4a1730acc77ab1e40aeb0 E:\ZRDANDROID\MyApplicationProject\MyApplication\build\res\all\debug\drawable-mdpi\ic_launcher.png
+1431941743724 363 649236ea27deaa5f0e33ec3d49473251166947be E:\ZRDANDROID\MyApplicationProject\MyApplication\build\res\all\debug\drawable\wheel_val.xml
+1431931620167 24654 696bbbc63d2250ef7d3373f2d602e604acd13d8c E:\ZRDANDROID\MyApplicationProject\MyApplication\build\res\all\debug\drawable-xxhdpi\ic_launcher.png
+1431931620165 7721 39b0f5a0570da92f471225402ad0ea6de30bf2be E:\ZRDANDROID\MyApplicationProject\MyApplication\build\res\all\debug\drawable-hdpi\ic_launcher.png
+1431931620212 210 c41731f5631a90fa989588ef97e9476fc244b438 E:\ZRDANDROID\MyApplicationProject\MyApplication\build\res\all\debug\values-v11\values.xml
+1431941743722 843 875321c91149b699c2d979389f4bf520180bb7f7 E:\ZRDANDROID\MyApplicationProject\MyApplication\build\res\all\debug\layout\activity_main.xml
+1431948467907 552 6b8579a42b2ea0e5631b5c76a7d958c97e39f6f0 E:\ZRDANDROID\MyApplicationProject\MyApplication\build\res\all\debug\layout\picker_dialog.xml
+1431941743740 926 0a309ced02ab0987c8c3ab9339abf65f51131e7e E:\ZRDANDROID\MyApplicationProject\MyApplication\build\res\all\debug\layout\address_picker.xml
+1431931620167 244 045ff451db7cd8e61285502b8c9bbf7405f2078d E:\ZRDANDROID\MyApplicationProject\MyApplication\build\res\all\debug\menu\main.xml
+1431931620188 812 9dea7abd0cd3334d3ed945aca11264d554302a0e E:\ZRDANDROID\MyApplicationProject\MyApplication\build\res\all\debug\values\values.xml
+1431931620166 12329 a8301606e15d4b6dccdd775cc273cfc51a552645 E:\ZRDANDROID\MyApplicationProject\MyApplication\build\res\all\debug\drawable-xhdpi\ic_launcher.png
+1431931620217 130 90e37035f35f83953c491e73e930b7aea297a472 E:\ZRDANDROID\MyApplicationProject\MyApplication\build\res\all\debug\values-sw720dp-land\values.xml
+1431931620192 224 3bee0d9a6f0efbaf11495ad45fdeb8f71aee62e8 E:\ZRDANDROID\MyApplicationProject\MyApplication\build\res\all\debug\values-v14\values.xml
+1431941743722 862 60ab66f9f62054c53444b12495a1c14f9da7f24f E:\ZRDANDROID\MyApplicationProject\MyApplication\build\res\all\debug\drawable\wheel_bg.xml
